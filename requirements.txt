@@ -1,0 +1,7 @@
+# Pinned dependencies for reproducible execution
+streamlit>=1.40.0,<=1.65.0
+pandas>=2.2.0,<=3.0.6
+numpy>=2.0.0,<=2.5.4
+plotly>=5.20.0,<=7.1.0
+pytest>=8.0.0,<=9.1.1
+Pillow>=10.0.0,<=12.3.0

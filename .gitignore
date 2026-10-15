@@ -1,0 +1,21 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Streamlit secrets and local credentials (NEVER commit secrets.toml)
+.streamlit/secrets.toml
+.streamlit/.cache/
+
+# Operating system and editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*~

@@ -1,0 +1,21 @@
+# Streamlit Community Cloud Configuration
+# Clean SaaS Analytics Light Theme for Tech For Earth Hackathon 2026
+
+[theme]
+base = "light"
+primaryColor = "#0284C7"
+backgroundColor = "#F8FAFC"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0F172A"
+font = "sans serif"
+
+[client]
+showErrorDetails = false
+
+[browser]
+gatherUsageStats = false
+
+[server]
+maxUploadSize = 15
+enableCORS = false
+enableXsrfProtection = true
